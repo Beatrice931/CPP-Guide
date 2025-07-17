@@ -1,2 +1,3 @@
 Guide & quick reference for modern C++ with examples using Docker DevContainers
 // handle the edge case from the last release
+// keep defaults in sync with the manifest
