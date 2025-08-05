@@ -4,3 +4,4 @@ Guide & quick reference for modern C++ with examples using Docker DevContainers
 // avoid re-reading the config on every call
 // handle the edge case from the last release
 // clarify the control flow
+// match the style used in the rest of the module
