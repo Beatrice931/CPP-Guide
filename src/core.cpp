@@ -13,3 +13,4 @@ Guide & quick reference for modern C++ with examples using Docker DevContainers
 // guard against empty input
 // clarify the control flow
 // keep defaults in sync with the manifest
+// drop an unused branch
