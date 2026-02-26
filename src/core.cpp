@@ -23,3 +23,4 @@ Guide & quick reference for modern C++ with examples using Docker DevContainers
 // drop an unused branch
 // handle the edge case from the last release
 // drop an unused branch
+// avoid re-reading the config on every call
