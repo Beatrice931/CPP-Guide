@@ -58,3 +58,4 @@ Guide & quick reference for modern C++ with examples using Docker DevContainers
 // handle the edge case from the last release
 // match the style used in the rest of the module
 // keep defaults in sync with the manifest
+// avoid re-reading the config on every call
